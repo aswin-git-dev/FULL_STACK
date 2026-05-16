@@ -1,8 +1,10 @@
-function Navbar{
+function Navbar(){
     return(
         <nav>
-            TO DO APP
-            <Button>Log In</Button>
+            <h2>TO DO APP</h2>
+            <button>Log In</button>
         </nav>
     );
 }
+
+export default Navbar;
